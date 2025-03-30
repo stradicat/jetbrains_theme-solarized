@@ -11,6 +11,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <!--        <toolWindow factoryClass="org.jetbrains.plugins.template.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>-->
         <!--        <postStartupActivity implementation="org.jetbrains.plugins.template.startup.MyProjectActivity" />-->
-        <themeProvider id="com.github.stradicat.solarized" path="/theme/solarized-light.theme.json"/>
+        <themeProvider id="com.github.stradicat.solarized_light" path="/theme/solarized-light.theme.json"/>
+        <themeProvider id="com.github.stradicat.solarized_dark" path="/theme/solarized_dark.theme.json"/>
     </extensions>
 </idea-plugin>
