@@ -1,0 +1,11 @@
+{
+  "name": "Solarized_theme",
+  "author": "Dennis Mayr",
+  "dark": true,
+  "colors": {
+    "primaryRed": "#821010"
+  },
+  "ui": {
+    "Button.background": "primaryRed"
+  }
+}
